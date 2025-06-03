@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Proyecto/data"
+		},
+		{
+			"path": "../../../Proyecto/gestion_reservas"
+		},
+		{
+			"path": "../../../Proyecto/mientorno"
+		},
+		{
+			"path": "../../../Proyecto/Reservas"
+		}
+	],
+	"settings": {}
+}
